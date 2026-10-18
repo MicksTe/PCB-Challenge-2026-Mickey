@@ -1,4 +1,4 @@
-Overall board size is 46.8mm x 62.2mm. Probably could have done better if i utilised the bottom side more and the empty spots but I ran out of time
+Overall board size is 46.8mm x 62.4mm. Probably could have done better if i utilised the bottom side more and the empty spots but I ran out of time
 ### Stack-up
 Top
 GND shielding
