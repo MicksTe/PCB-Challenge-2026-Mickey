@@ -1,4 +1,2 @@
 (version 1)
-(rule "J3 own NPTH clearance"
-  (condition "A.memberOfFootprint('J3') && B.memberOfFootprint('J3')")
-  (constraint hole_clearance (min 0.15mm)))
+
