@@ -17,5 +17,4 @@ Bottom
 - GND pads on ESP32 were not tied to the GND net so I changed it myself
 - Pin 9 of both adders were both labelled COUT but served no purpose to be tied that way and may even be problematic(short when both COUTs are different) so decided to change it to no net. If this was intentional I wouldve routed this on Inner 2 and there would not be much difference on the overall layout
 - NRST switch not connected to anything. I assumed this wouldve been connected to the MCU, so it is placed somewhat closely
-- There was a DRC violation for a pad and non-plated through hole for the USB-C port, since this was to do with the footprint, I added an exception in DRC custom rules
 - Removed name and value from silkscreen
